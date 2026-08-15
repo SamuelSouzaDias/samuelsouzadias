@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuelsouzadias)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=web&logoColor=white)](https://samuel-dias-portfolio.vercel.app)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:samuelsouzadias@outlook.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:samuel.dias.career@outlook.com)
 
 ---
 
