@@ -81,7 +81,7 @@ If you're building a data-driven organization that values **reliability, scalabi
 
 **Available for:** Contract work | Full-time roles | Open-source collaboration
 
-📧 **Email:** samuelsouzadias@outlook.com  
+📧 **Email:** samuel.dias.career@outlook.com
 💼 **LinkedIn:** [in/samuelsouzadias](https://www.linkedin.com/in/samuelsouzadias)  
 🌐 **Portfolio:** [samuel-dias-portfolio.vercel.app](https://samuel-dias-portfolio.vercel.app)
 
