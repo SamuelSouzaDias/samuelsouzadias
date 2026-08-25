@@ -54,15 +54,13 @@ I'm a **Data & Analytics Engineer** with **4+ years** building scalable, reliabl
 - Mastering orchestration with Apache Airflow
 - Strengthening cloud-native architectures on Azure
 
-**Looking for:** Opportunities in **Canada, Europe, or the US** — remote-first roles where data reliability and governance drive competitive advantage.
-
 ---
 
 ## 📂 Featured Work
 
 - **[Bid-Win-Loss Analytics](https://github.com/SamuelSouzaDias/bid-win-loss-analytics)** — Data-driven pattern analysis identifying deal-loss drivers
 - **[Retail Sales Dashboard](https://github.com/SamuelSouzaDias/retail-sales-analysis)** — Retail product trends and geographic performance insights
-- **[AI Engineering Coursework](https://github.com/SamuelSouzaDias/ai-engineering-coursework)** — Hands-on ML fundamentals and model validation
+
 
 ---
 
@@ -71,7 +69,7 @@ I'm a **Data & Analytics Engineer** with **4+ years** building scalable, reliabl
 - **4+ years** in data roles, scaling from BI analyst to engineer
 - **85+ dashboards** migrated to production platforms
 - **2 major governance initiatives** implemented
-- **37 commits** last year — consistent, focused development
+
 
 ---
 
