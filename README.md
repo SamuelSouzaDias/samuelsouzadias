@@ -29,7 +29,7 @@ I'm a **Data & Analytics Engineer** with **4+ years** building scalable, reliabl
 **Payroll Integrity Analysis** (PySpark + Databricks)
 - Identified and isolated high-risk employee records
 - **23.6% retention rate** on flagged population
-- **Six-figure savings** from downstream remediation
+- **R$59.6K in confirmed net savings**, isolated from a much larger initial recovery figure that didn't survive reversals
 
 **Role-Based Access Control Implementation** 
 - Secured sensitive datasets across reporting layers
@@ -59,7 +59,7 @@ I'm a **Data & Analytics Engineer** with **4+ years** building scalable, reliabl
 ## 📂 Featured Work
 
 - **[Bid-Win-Loss Analytics](https://github.com/SamuelSouzaDias/bid-win-loss-analytics)** — Data-driven pattern analysis identifying deal-loss drivers
-- **[Retail Sales Dashboard](https://github.com/SamuelSouzaDias/retail-sales-analysis)** — Retail product trends and geographic performance insights
+- **[F1 Regulation Impact Analytics](https://github.com/SamuelSouzaDias/f1-regulation-impact-analytics)** — Medallion pipeline (Databricks + dbt + Airflow) analyzing how F1 championship outcomes would shift under today's points system
 
 
 ---
